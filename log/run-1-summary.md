@@ -41,6 +41,7 @@ Nothing was paid, because the run used the Free plan. Worked out at the regular 
 - Each press of "Generate speech" produced two entries in the history. One showed a credit charge and the other showed "0 credits used".
 - Ten of the twelve charged entries were opened. Each showed a charge equal to the character count of its line. The entries for lines 05 and 06 were not opened.
 - If lines 05 and 06 follow the same rule, the charged entries add up to 1,141 credits. The balance fell by 1,026. The gap is 115 credits, which is the size of line 01. We do not know the reason for the gap. The figures above use the balance, as the rules in the README say.
+- After the run, the same Bengali text was opened with the stock voice Adam selected. The app showed the hint "Use a Bengali voice for best results" under the voice picker (`screenshots/2026-10-08-bengali-voice-hint-adam.jpg`). The run itself used Roger.
 
 ## Limits of this run
 
@@ -53,4 +54,5 @@ Nothing was paid, because the run used the Free plan. Worked out at the regular 
 - `screenshots/2026-10-08-settings-before-run-1.png`
 - `screenshots/2026-10-08-credits-before-free-plan.jpg`
 - `screenshots/2026-10-08-credits-after-run-1.jpg`
+- `screenshots/2026-10-08-bengali-voice-hint-adam.jpg`
 - `log/voice-test-log.csv`
