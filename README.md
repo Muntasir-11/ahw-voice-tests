@@ -45,4 +45,4 @@ Muntasir Ahmad Chowdhury, founder of AI Hustle World, generates and listens to e
 
 | Run | Tool | Plan | Status |
 |---|---|---|---|
-| 1 | ElevenLabs, Eleven v4, stock voice | Free | Not run yet |
+| 1 | ElevenLabs, Eleven v4, stock voice | Free | Done on 8 October 2026. See [`log/run-1-summary.md`](log/run-1-summary.md) |
