@@ -24,6 +24,11 @@
 
 All six English lines and all six mixed Bengali and English lines were judged correct on the first take. No words, prices, dates or brand names were logged as wrong.
 
+## Listener's notes
+
+- The founder listened to both versions of every line before recording a result.
+- In the six mixed lines, the voice sounded like a Bengali speaker, in the founder's judgement.
+
 ## Cost per finished minute
 
 Nothing was paid, because the run used the Free plan. Worked out at the regular price of the cheapest paid plan on the test date (Starter, $6 a month for 30,000 credits, which is $0.0002 a credit):
