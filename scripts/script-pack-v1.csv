@@ -1,0 +1,13 @@
+line_no,line_id,language,what_it_tests,text
+01,01-english-brand,English,Brand name and the letters AI,"Welcome back to AI Hustle World, where every AI tool is checked against the primary sources before we recommend it."
+02,02-english-price,English,"Prices with decimals, a large number and a percentage","This plan costs $19.99 a month for 30,000 credits, or $199 a year, which saves you about 17%."
+03,03-english-date,English,A full date and a clock time,"The next video goes live on Friday, 16 October 2026, at 9:30 PM Dhaka time."
+04,04-english-question,English,Question intonation,Have you ever paid for a tool for six months and then realised you only opened it twice?
+05,05-english-emotional,English,Emotional delivery,"Honestly, I almost gave up on this channel last year. I'm so glad I didn't."
+06,06-english-technical,English,A web address and abbreviations,"Go to aihustleworld.com, open the FAQ, and check the API limits before you export the file as an MP3 or a WAV."
+07,07-mixed-brand,Bengali-English,Brand name inside a Bengali sentence,AI Hustle World-এ আপনাকে স্বাগতম। এখানে আমরা প্রতিটা AI tool recommend করার আগে official source-এর সাথে মিলিয়ে দেখি।
+08,08-mixed-price,Bengali-English,"Bengali numerals, taka prices, a percentage and the brand bKash","এই plan-এর দাম মাসে ১,৪৯৯ টাকা, বছরে নিলে ১৪,৯৯০ টাকা, মানে প্রায় ১৭% save হয়। bKash দিয়েও payment করা যায়।"
+09,09-mixed-date,Bengali-English,A Bengali date and clock time,"পরের video আসবে ১৬ অক্টোবর ২০২৬, শুক্রবার রাত ৯টা ৩০ মিনিটে।"
+10,10-mixed-question,Bengali-English,Question intonation with English nouns,"আপনি কি কখনো ছয় মাস ধরে কোনো tool-এর subscription-এর টাকা দিয়ে গেছেন, অথচ খুলেছেন মাত্র দুইবার?"
+11,11-mixed-emotional,Bengali-English,Emotional delivery,"সত্যি বলতে, গত বছর আমি এই channel প্রায় ছেড়েই দিয়েছিলাম। ভাগ্যিস ছাড়িনি।"
+12,12-mixed-technical,Bengali-English,A web address and abbreviations inside Bengali,"File export করার আগে aihustleworld.com-এ গিয়ে FAQ খুলুন, আর API limit check করে নিন, তারপর MP3 বা WAV হিসেবে download করুন।"
