@@ -45,6 +45,7 @@ Nothing was paid, because the run used the Free plan. Worked out at the regular 
 
 ## Evidence
 
+- `screenshots/2026-10-08-settings-before-run-1.png`
 - `screenshots/2026-10-08-credits-before-free-plan.jpg`
 - `screenshots/2026-10-08-credits-after-run-1.jpg`
 - `log/voice-test-log.csv`
