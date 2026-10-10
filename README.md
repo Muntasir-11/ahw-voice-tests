@@ -46,3 +46,4 @@ Muntasir Ahmad Chowdhury, founder of AI Hustle World, generates and listens to e
 | Run | Tool | Plan | Status |
 |---|---|---|---|
 | 1 | ElevenLabs, Eleven v4, stock voice | Free | Done on 8 October 2026. See [`log/run-1-summary.md`](log/run-1-summary.md) |
+| 2 | ElevenLabs, Instant Voice Clone | Free | Not possible. The app asked for an upgrade at the save step on 10 October 2026. See [`log/clone-attempt-2026-10-10.md`](log/clone-attempt-2026-10-10.md) |
