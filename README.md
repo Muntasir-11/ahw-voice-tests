@@ -16,7 +16,7 @@ The lines are plain text with no tags or markup, so they can be pasted into any 
 
 ## Rules for a run
 
-1. One tool, one voice, one model and one group of settings for all 12 lines.
+1. One tool, one voice, one model and one group of settings for all 12 lines. If a tool has no single voice that reads both English and Bengali, the six mixed lines are run with one Bengali voice, and the log names both voices.
 2. Each line is generated once, then listened to.
 3. A take is rejected if a word is mispronounced, if a number, price or date is read wrongly, if the brand name is wrong, if an English or Bengali word is spoken with the wrong language's sounds, or if there is an audible glitch.
 4. A rejected line is generated again with the same text and settings, up to three takes. If the third take fails, the line is logged as failed.
@@ -37,8 +37,8 @@ Muntasir Ahmad Chowdhury, founder of AI Hustle World, generates and listens to e
 
 | Folder | Contents |
 |---|---|
-| `scripts/` | The script pack |
-| `log/` | One row per take |
+| `scripts/` | The script pack, and the 60-second script used for the dubbing test |
+| `log/` | One row per take, run summaries, and dated notes on what vendor pages and app screens showed |
 | `screenshots/` | Dated screenshots of settings and credit balances |
 
 ## Runs
