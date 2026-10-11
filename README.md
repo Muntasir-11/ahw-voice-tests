@@ -49,3 +49,4 @@ Muntasir Ahmad Chowdhury, founder of AI Hustle World, generates and listens to e
 | 2 | ElevenLabs, Instant Voice Clone | Free | Not possible. The app asked for an upgrade at the save step on 10 October 2026. See [`log/clone-attempt-2026-10-10.md`](log/clone-attempt-2026-10-10.md) |
 | 3 | Cartesia, Sonic 3.6, two stock voices | Free | Done on 11 October 2026. See [`log/run-3-summary.md`](log/run-3-summary.md) |
 | 4 | Murf, one stock voice | Free | Done on 11 October 2026. See [`log/run-4-summary.md`](log/run-4-summary.md) |
+| 5 | ElevenLabs Dubbing v1, one 66-second clip, English to Hindi | Free | Done on 11 October 2026. See [`log/dub-test-2026-10-11.md`](log/dub-test-2026-10-11.md) |
