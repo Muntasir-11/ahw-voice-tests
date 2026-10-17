@@ -50,3 +50,11 @@ Muntasir Ahmad Chowdhury, founder of AI Hustle World, generates and listens to e
 | 3 | Cartesia, Sonic 3.6, two stock voices | Free | Done on 11 October 2026. See [`log/run-3-summary.md`](log/run-3-summary.md) |
 | 4 | Murf, one stock voice | Free | Done on 11 October 2026. See [`log/run-4-summary.md`](log/run-4-summary.md) |
 | 5 | ElevenLabs Dubbing v1, one 66-second clip, English to Hindi | Free | Done on 11 October 2026. See [`log/dub-test-2026-10-11.md`](log/dub-test-2026-10-11.md) |
+
+## License
+
+The scripts, logs and run summaries in this repository (everything in `scripts/` and `log/`) are released under [CC BY 4.0](LICENSE). You may reuse them, including commercially, as long as you credit AI Hustle World (https://aihustleworld.com).
+
+The screenshots in `screenshots/` are published as evidence for the tests. They show third-party products, whose interfaces, names and trademarks belong to their owners; the CC BY 4.0 licence covers only AI Hustle World's own contribution to them, not the products shown.
+
+No audio is published here; see "What this is" above.
